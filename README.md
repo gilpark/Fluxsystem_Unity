@@ -9,7 +9,7 @@ It is still WIP and supports only 2D, which means the object's only **X** and **
 More information about [vectorfield / goal based path finding](http://gamedevelopment.tutsplus.com/tutorials/understanding-goal-based-vector-field-pathfinding--gamedev-9007)
 
 The system consists of 3 parts:
-* ***Fluxsystem class*** is the main class that initiates & calculate the field.
+* ***Fluxsystem class*** is the main class that initiates & calculates the field.
 * ***Cell class*** is holding infomation of its & neighbors' location in the array.
 * ***flow class*** is for looking up vector in the cell in the field and updates object's position.
 
