@@ -1,10 +1,9 @@
 # Fluxsystem_Unity
 
 This is a simple Vectorfield(aka flowfield) for Unity.
-
 ![alt text](http://gilpark.com/wp-content/uploads/2016/06/fluxsystem0.png "Fluxsystem_Unity")
 
-It is still WIP and supports only 2D, which means the object's only **X** and **Z** positions are updated on the field.
+It is still WIP and supports only 2D, which means only **X** and **Z** positions of the object are updated on the field.
 3D Vectorfield will soon be implemented.
 More information about [vectorfield / goal based path finding](http://gamedevelopment.tutsplus.com/tutorials/understanding-goal-based-vector-field-pathfinding--gamedev-9007)
 
